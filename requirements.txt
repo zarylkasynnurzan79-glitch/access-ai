@@ -1,0 +1,8 @@
+streamlit>=1.40
+faster-whisper
+edge-tts
+deep-translator
+transformers
+torch
+pillow
+timm
